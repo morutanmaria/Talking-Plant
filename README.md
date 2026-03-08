@@ -67,3 +67,6 @@ Data logging for plant growth analysis.
 Automatic irrigation system with a pump.
 
 Solar-powered system for energy efficiency.
+
+<img width="344" height="493" alt="image" src="https://github.com/user-attachments/assets/fc4b8b49-9960-41e9-9d44-8333f2fc0a4b" />
+
